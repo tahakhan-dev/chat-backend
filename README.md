@@ -158,5 +158,5 @@ By default, every message that is sent to any `USER` or `GROUP` it is marked wit
 
 Reach out to me at one of the following places:
 
-- Website at [AHMED BAIG](https://github.com/ahmedbaig) 
-- E-Mail: **muahmedbaig@outlook.com**
+- Website at Taha Khan(https://github.com/tahakhan-dev) 
+- E-Mail: **mtahakhan.dev@gmail.com**
