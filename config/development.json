@@ -1,0 +1,10 @@
+{
+    "origin": "http://localhost:8000", 
+    "front": "",
+    "fb-callback": "http://localhost:8000/auth/facebook/callback",
+    "g-callback": "http://localhost:8000/auth/google/callback",
+    "db": {
+        "name": "development"
+    },
+    "environment": "development"
+}

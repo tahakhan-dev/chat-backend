@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "esModuleInterop": true,
+        "target": "ES2020",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "outDir": "bin"
+    },
+    "exclude": [
+        "node_modules",
+        "bin", 
+    ],
+    "lib": [
+        "ES2020"
+    ]
+}

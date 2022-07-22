@@ -1,0 +1,10 @@
+{
+    "origin": "https://dev.iweave.com",
+    "front": "",
+    "fb-callback": "https://dev.iweave.com/auth/facebook/callback",
+    "g-callback": "https://dev.iweave.com/auth/google/callback", 
+    "db": {
+        "name": "iweave"
+    },
+    "environment": "production"
+}
